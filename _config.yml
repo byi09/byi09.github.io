@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  byi09
 
 # Build settings
-theme: cvless
+remote_theme: cvless
 plugins:
   - jekyll-feed
 # author settings
